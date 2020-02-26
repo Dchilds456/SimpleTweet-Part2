@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<https://github.com/Dchilds456/SimpleTweet-Part2/blob/master/Twitter%20part%202%20walkthrough.gif?raw=true/>
+<img src='https://github.com/Dchilds456/SimpleTweet-Part2/blob/master/Twitter%20part%202%20walkthrough.gif?raw=true' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
